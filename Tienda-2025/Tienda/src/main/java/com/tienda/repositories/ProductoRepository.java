@@ -6,7 +6,7 @@ package com.tienda.repositories;
 
 /**
  *
- * @author Usuario
+ * @author papac
  */
 import com.tienda.entities.Producto;
 import org.springframework.data.repository.CrudRepository;

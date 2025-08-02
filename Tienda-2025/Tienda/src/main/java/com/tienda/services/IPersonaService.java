@@ -10,7 +10,7 @@ import java.util.Optional;
 
 /**
  *
- * @author Usuario
+ * @author papac
  */
 public interface IPersonaService {
     //Esta lista va a guardar objectos de tipo persona

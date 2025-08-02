@@ -6,7 +6,7 @@ package com.tienda.entities;
 
 /**
  *
- * @author Usuario
+ * @author papac
  */
 import jakarta.persistence.*;
 import jakarta.validation.constraints.Min;

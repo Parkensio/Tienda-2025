@@ -6,7 +6,7 @@ package com.tienda.controllers;
 
 /**
  *
- * @author Usuario
+ * @author papac
  */
 
 import com.tienda.entities.Producto;
